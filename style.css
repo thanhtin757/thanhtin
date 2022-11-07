@@ -101,12 +101,10 @@ html {
     line-height: 38px;
 }
 
-#slider {
-    /* margin-top: 8px; */
-    padding-top: 50%;
-    background: url('img/bg.jpg') top center / cover no-repeat;
+#slider img {
+    width: 100vw;
+    height: 100vh;
 }
-
 #slider .text-content {
     position: absolute;
     color: black;
@@ -114,6 +112,7 @@ html {
     left: 50%;
     transform: translateX(-50%);
 }
+
 .content-section {
     display: flex;
     width: 80%;
