@@ -104,7 +104,7 @@ html {
 #slider {
     /* margin-top: 8px; */
     padding-top: 50%;
-    background: url('/img/bg.jpg') top center / cover no-repeat;
+    background: url('img/bg.jpg') top center / cover no-repeat;
 }
 
 #slider .text-content {
